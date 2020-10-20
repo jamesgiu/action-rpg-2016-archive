@@ -1,0 +1,22 @@
+PORTRAIT_PERSON
+Sorry man, I don't feel like talking.
+PORTRAIT_PLAYER
+What's wrong?
+You don't look so good
+PORTRAIT_PERSON
+Mr Reinhardt took my phone.
+He said he's going to go through the pictures in it.
+PORTRAIT_PLAYER_ANGRY
+He can't do that!
+PORTRAIT_PERSON
+If there are any photos of a school uniform in there.
+...
+I will become die.
+PORTRAIT_PLAYER_ANGRY
+I'll get it back for you!
+PORTRAIT_PLAYER_HAPPY
+Don't worry about a thing.
+Those office ladies are no match for me.
+PORTRAIT_PERSON
+Don't die, new guy.
+We're counting on you.

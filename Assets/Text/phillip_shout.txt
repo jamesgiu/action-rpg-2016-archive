@@ -1,0 +1,8 @@
+Ey! Are you the new kid or something?
+PORTRAIT_PLAYER
+Hey. 
+Who are you?
+PORTRAIT_PERSON
+Nothing much.
+...
+Now get over here and press Z!

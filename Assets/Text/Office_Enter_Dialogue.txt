@@ -1,0 +1,4 @@
+PORTRAIT_PLAYER_ANGRY
+The office... smells like plastic and instant coffee.
+PORTRAIT_PLAYER_CONTENT
+The office ladies don't like loiterers.

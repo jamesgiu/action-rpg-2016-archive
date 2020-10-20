@@ -1,0 +1,5 @@
+PORTRAIT_PERSON
+Oi!!!!!!
+What do you think you're doing!?!?
+PORTRAIT_PLAYER_ANGRY
+Oh blast!

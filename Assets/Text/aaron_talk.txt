@@ -1,0 +1,21 @@
+PORTRAIT_PERSON
+Heard of Dota 2, dude?
+PORTRAIT_PLAYER
+Nah I haven't, I'm new here.
+PORTRAIT_PERSON
+Relax man! 
+PORTRAIT_PLAYER_HAPPY
+I am relaxed dude!!
+PORTRAIT_PERSON
+Don't let the game get to ya man!
+It's not healthy to talk so much about Dota 2.
+PORTRAIT_PLAYER_ANGRY
+But you brought it up!
+I don't know wha-
+PORTRAIT_PERSON
+It's a bad game.
+I'm glad we quit talking about it.
+PORTRAIT_PLAYER
+???
+PORTRAIT_PERSON
+Eh what the hell!

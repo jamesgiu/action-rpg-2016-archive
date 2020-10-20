@@ -1,0 +1,12 @@
+PORTRAIT_PLAYER_HAPPY
+Hey, what's up?
+PORTRAIT_PERSON
+Ugh, all these students look the same.
+PORTRAIT_PLAYER_ANGRY
+Not me, I've got a unique sprite!
+PORTRAIT_PERSON
+Ugh. Everyone is 64x64... too short for my taste.
+PORTRAIT_PLAYER_ANGRY
+...
+PORTRAIT_PLAYER
+Well, cya!

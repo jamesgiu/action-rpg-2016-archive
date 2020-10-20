@@ -1,0 +1,5 @@
+PORTRAIT_PERSON
+A painting you did in 8th grade.
+You won $200 but never got it.
+PORTRAIT_PLAYER_ANGRY
+I bet they spent it on fish and chips...

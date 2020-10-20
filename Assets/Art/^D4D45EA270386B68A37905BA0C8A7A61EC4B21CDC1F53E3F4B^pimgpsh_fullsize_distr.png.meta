@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 7016f51876cb45c49acdb7c91f71ec28
+timeCreated: 1484443606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_0
+    21300002: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_1
+    21300004: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_2
+    21300006: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_3
+    21300008: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_4
+    21300010: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_5
+    21300012: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_6
+    21300014: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_7
+    21300016: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_8
+    21300018: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_9
+    21300020: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_10
+    21300022: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_11
+    21300024: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_12
+    21300026: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_13
+    21300028: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_14
+    21300030: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_15
+    21300032: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_16
+    21300034: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_17
+    21300036: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_18
+    21300038: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_19
+    21300040: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_20
+    21300042: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_21
+    21300044: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_22
+    21300046: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_23
+    21300048: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ^D4D45EA270386B68A37905BA0C8A7A61EC4B21CDC1F53E3F4B^pimgpsh_fullsize_distr_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

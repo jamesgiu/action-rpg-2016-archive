@@ -1,0 +1,11 @@
+PORTRAIT_PERSON
+Hey man!
+PORTRAIT_PLAYER
+Hey dude.
+PORTRAIT_PERSON
+*Munches on pizza*
+MMmmm.. it'S gOOD mMMm m
+PORTRAIT_PLAYER
+???
+PORTRAIT_PERSON
+lol dunno lol

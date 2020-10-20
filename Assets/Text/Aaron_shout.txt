@@ -1,0 +1,5 @@
+PORTRAIT_PERSON
+Hey man geddoverhere!
+PORTRAIT_PLAYER
+Hey, okay dude.
+
