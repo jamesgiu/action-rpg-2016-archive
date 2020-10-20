@@ -1,0 +1,26 @@
+PORTRAIT_PERSON
+You know what happened today?
+You know that new kid?
+Well I walked right up to him, looked him in the eye.
+He looked back at me but he didn't say anything.
+I added some extra strength to my stare. 
+I was looking at him real mean!
+Then I said,
+What are you staring at, noob?
+And because he's such an idiot, he still didn't say anything!
+And once again in this schoolyard right here,
+I have successfully asserted my dominance upon another 
+unsuspecting new student.
+Take that, goblin!
+PORTRAIT_PLAYER_ANGRY
+Ahem...
+PORTRAIT_PERSON
+Wha-
+OOOOOOOOOOhh I totally didn't see you there!
+Well, uh...
+You know what?
+Uh...
+...
+Well, cya!
+PORTRAIT_PLAYER_ANGRY
+???

@@ -1,0 +1,16 @@
+PORTRAIT_PLAYER
+Ey what's that burger called?
+PORTRAIT_PERSON
+*munch* whob? *munch*
+PORTRAIT_PLAYER_ANGRY
+The burger. What's it called?
+PORTRAIT_PERSON
+*munch* Oh, this? It's called the Zinger Burger.
+PORTRAIT_PLAYER
+Interesting. How much is it?
+PORTRAIT_PERSON
+Oh just bugger off, yeah?
+*Munch*
+Can't you see I'm *munch* trying to eat?
+PORTRAIT_PLAYER_ANGRY
+Fine...

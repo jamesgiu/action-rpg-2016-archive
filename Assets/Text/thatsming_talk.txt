@@ -1,0 +1,17 @@
+PORTRAIT_PLAYER
+Excuse me.
+PORTRAIT_PERSON
+What?
+PORTRAIT_PLAYER
+Do you know who that kid is?
+PORTRAIT_PERSON
+What?
+PORTRAIT_PLAYER
+That guy. With the trench coat and strange hat. Who is he?
+PORTRAIT_PERSON
+Oh that guy, yeah.
+That's Ming, man.
+Short for Max Ping.
+Haha.
+PORTRAIT_PLAYER
+Ming. Gotcha.

@@ -1,0 +1,15 @@
+PORTRAIT_PERSON
+Oh hey dude.
+PORTRAIT_PLAYER
+Hey.
+PORTRAIT_PERSON
+Can you hear that game?
+Is that game too loud by the way?
+PORTRAIT_PLAYER
+What game?
+PORTRAIT_PERSON
+RAAAAAAAAAAAAAAAGH
+PORTRAIT_PLAYER_HAPPY
+???
+PORTRAIT_PERSON
+Oh hey dude.

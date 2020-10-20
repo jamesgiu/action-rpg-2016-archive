@@ -1,0 +1,4 @@
+PORTRAIT_PERSON
+You're late, hurry up!
+PORTRAIT_PLAYER_ANGRY
+soz fam

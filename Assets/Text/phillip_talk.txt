@@ -1,0 +1,7 @@
+PORTRAIT_PERSON
+My name is Phillip or something!
+Anyways, cya!
+PORTRAIT_PLAYER
+???
+PORTRAIT_PERSON
+Ah yes.

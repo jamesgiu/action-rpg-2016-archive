@@ -1,0 +1,20 @@
+PORTRAIT_PLAYER
+So I guess you're immune to Mr. Reinhardt?
+PORTRAIT_PERSON
+That's right! I'm such a good student.
+I obey the rules and I never get in trouble.
+Not even once!
+So yeah, like, I love school!
+PORTRAIT_PLAYER
+Okay... So...
+I was wondering if you could help me out with something?
+You see, Reinhardt has stolen something very dear to me.
+PORTRAIT_PERSON
+wHAT?! Mr. Reinhardt wouldn't steal anything!
+You're telling the truth?
+PORTRAIT_PLAYER
+Of course! He stole my fish and chips!
+PORTRAIT_PERSON
+Wait wh-
+FISH AND CHIPS!?
+Sorry, I've got to get ready for class.
